@@ -27,12 +27,9 @@ public class Main {
         Thread.sleep(2500);
         System.out.println("İçki masaya geldi\n içki tüketiliyor....");
         Thread.sleep(4000);
-        System.out.println("KADINLARA sarkıntılık ediliyor....");
-        Thread.sleep(1000);
         System.out.println("sarkıntılık işlemi herşeyi karıştırdı....");
         System.out.println("Güvenlikler ve insan etiyle beslenen Köpekler geliyor....");
         Thread.sleep(1500);
-        System.out.println("Mutlu son sadece kadınlara sarkınılık yaptığın için cesedin dahi bulunamadı....");
         System.out.println("Kamu spotu kadına Şiddete HAYIR.....!!!!!");
         Thread.sleep(8000);
         System.out.println("HİÇBİR KÖTÜLÜK CEZASIZ KALMAZ....");
